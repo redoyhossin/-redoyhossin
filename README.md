@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redoyhossin&label=Profile%20views&color=0e75b6&style=flat" alt="redoyhossin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redoyhossin" alt="redoyhossin" /></a> </p>
-
 - 🔭 I’m currently working on [Public-Hospital](https://redoyhossin.github.io/Public-Hospital/)
 
 - 🌱 I’m currently learning **PHP/laravel/web developer**
